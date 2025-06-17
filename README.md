@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Moataz Mohamed</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">A passionate software engineer from Egypt 🇪🇬</h3>
 
-- 🔭 I’m currently working on [Games Orb](https://play.google.com/store/apps/details?id=com.mcreations.gameorb)
+- I’m currently working on [Games Orb](https://play.google.com/store/apps/details?id=com.mcreations.gameorb)
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- I’m currently learning **Flutter & Dart**
 
-- 💬 Ask me about **Android development**
+- Ask me about **Android development**
 
-- 📫 How to reach me **moatazmohamed59@gmail.com**
+- How to reach me **moatazmohamed59@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
