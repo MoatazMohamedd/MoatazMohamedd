@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moataz Mohamed</h1>
-<h3 align="center">A passionate software engineer from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 
 - I’m currently working on [Games Orb](https://play.google.com/store/apps/details?id=com.mcreations.gameorb)
 
